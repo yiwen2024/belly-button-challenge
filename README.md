@@ -27,7 +27,7 @@ Figure 2. Horizontal bar chart correspodning to a dropdown manu shown as below
 
 Using the D3 library to read in samples.json from the URL https://static.bc-edx.com/data/dl-1-2/m14/lms/starter/samples.json, a horizontal bar chart with a dropdown menu was created to display the top 10 OTUs found in that individual.
 
-![alt text](<hbarChart_ dropdown-1.png>)
+![alt text](<hbarChart_ dropdown.png>)
 
 
 Figure 3. Bubble chart correspodning to a dropdown manu shown as below
